@@ -1,8 +1,6 @@
 # PokerPPO
 # PokerRL-PPO-Agent
 
-![PokerRL-PPO-Agent](https://github.com/YourUsername/PokerRL-PPO-Agent/blob/main/assets/poker_image.png)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -271,4 +269,3 @@ For any inquiries or support, please contact:
 
 ---
 
-Happy Training! 🎉
